@@ -5,6 +5,7 @@
       "maxDuration": 10
     }
   },
+  "regions": ["fra1"],
   "redirects": [
     {
       "source": "/",
